@@ -7,6 +7,6 @@ int main()
 	printf("\nSumm of a and b = %d\n", (a+b));
 	printf("\nSubtraction of a and b = %d\n", (a-b));
 	printf("\nMultiplication of a and b = %d\n", (a*b));
-
+	printf("\nDivision of a and b = %d\n", (a/b));
 	return 0;
 }

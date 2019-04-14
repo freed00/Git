@@ -1,3 +1,4 @@
+// this is training program
 #include <std.h>
 int main()
 {	
